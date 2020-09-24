@@ -1,4 +1,6 @@
-<img align="right" width="500" height="300" src="https://blog.sirena.app/hs-fs/hubfs/blog-image-uploads/Posteos%20Pablo%20Lorenzatti/salesforce-iniciar-sesi%C3%B3n-min.gif?width=533&name=salesforce-iniciar-sesi%C3%B3n-min.gif">
+<a href="https://github.com/jjonasramos">
+    <img width="50%" align="right" width="50%" alt="Jonas Ramos github stats" src="https://github-readme-stats.vercel.app/api?username=jjonasramos&show_icons=true&hide_border=true" />
+  </a>
  
 # Welcome!
  
@@ -8,6 +10,8 @@ Graduate in Computer Science at IESB in 2020, I have the passion for learning ne
 I'm working as a data analyst and web developer since 2017. My mainly skills are Qlik products, HTML5, CSS3 and JavaScript.
 
 I'm currently studying new frameworks and languages of programming, that they are: ReactJS, ReactNative and Python.
+
+
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jjonasramos/)](https://github.com/jjonasramos/)
