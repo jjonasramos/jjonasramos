@@ -5,7 +5,7 @@
 ## I'm Jonas Ramos!
 
 Graduate in Computer Science at IESB in 2020, I have the passion for learning new technologies. So, I consider programming a fun time part of my day.
-I'm Working as data analyst and web developer since 2017. My mainly skills are Qlik products, HTML5, CSS3, JavaScript and AngularJS.
+I'm working as a data analyst and web developer since 2017. My mainly skills are Qlik products, HTML5, CSS3 and JavaScript.
 
 I'm currently studying new frameworks and languages of programming, that they are: ReactJS, ReactNative and Python.
  
