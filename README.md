@@ -1,6 +1,4 @@
-<a href="https://github.com/jjonasramos">
-    <img width="50%" align="right" width="50%" alt="Jonas Ramos github stats" src="https://github-readme-stats.vercel.app/api?username=jjonasramos&show_icons=true&hide_border=true" />
-  </a>
+
  
 # Welcome!
  
@@ -10,6 +8,12 @@ Graduate in Computer Science at IESB in 2020, I have the passion for learning ne
 I'm working as a data analyst and web developer since 2017. My mainly skills are Qlik products, HTML5, CSS3 and JavaScript.
 
 I'm currently studying new frameworks and languages of programming, that they are: ReactJS, ReactNative and Python.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonasramos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/jjonasramos">
+    <img align="center" width="50%" alt="Jonas Ramos github stats" src="https://github-readme-stats.vercel.app/api?username=jjonasramos&show_icons=true&hide_border=true" />
+</a>
 
 
  
