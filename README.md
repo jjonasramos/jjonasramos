@@ -5,9 +5,9 @@
 ## I'm Jonas Ramos!
 
 Graduate in Computer Science at IESB in 2020, I have the passion for learning new technologies. So, I consider programming a fun time part of my day.
-I'm working as a data analyst and web developer since 2017. My mainly skills are Qlik products, HTML5, CSS3 and JavaScript.
+I'm working as a data analyst and web developer since 2017 and my mainly skills are Qlik products and Fron End Development.
 
-I'm currently studying new frameworks and languages of programming, that they are: ReactJS, ReactNative and Python.
+I'm actually studying new frameworks and languages of programming, that they are: ReactJS, ReactNative and Python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonasramos)](https://github.com/jjonasramos)
 
