@@ -4,10 +4,19 @@
  
 ## I'm Jonas Ramos!
 
-Graduated in Computer Science at IESB in 2020, I have a passion for learning new technologies. So, I consider programming a fun time part of my day.
-I'm working as a data analyst and front end developer since 2017 and my mainly skills are Qlik products and Fron End Development.
+Hey buddy, welcome to my Github profile. Here you'll find a lot of bugs Lol. Just kidding... or not.
 
-I'm actually studying new frameworks and languages of programming, that they are: ReactJS, ReactNative and Python.
+Introducing myself, I've started programming when I was 13yo at school. On 2016 I decided to start a degree in Computer Science, that I've done in 2020.
+
+Before to finish the degree, I've started a position as a Data Analyst at IN1, working specifically with the Qlik Products.
+
+In parallels, I was learning other technologies and improving my web development skills.
+
+So, today my mainly skills are Data Analysis, focused on Qlik (and a little bit of Power BI), front end development using ReactJS.
+
+And... The technologies that I'm currently studying are NodeJS and React Native.
+
+Go 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonasramos)](https://github.com/jjonasramos)
 
@@ -15,7 +24,7 @@ I'm actually studying new frameworks and languages of programming, that they are
     <img align="center" width="50%" alt="Jonas Ramos github stats" src="https://github-readme-stats.vercel.app/api?username=jjonasramos&show_icons=true&hide_border=true" />
 </a>
 
-
+That's a little bit of me and... let's learn together.
 
  
 ## About me 
