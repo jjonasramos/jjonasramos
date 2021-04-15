@@ -16,15 +16,13 @@ So, today my mainly skills are Data Analysis, focused on Qlik (and a little bit 
 
 And... The technologies that I'm currently studying are NodeJS and React Native.
 
-Go 
+That's a little bit of me and... let's learn together.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonasramos)](https://github.com/jjonasramos)
 
 <a href="https://github.com/jjonasramos">
     <img align="center" width="50%" alt="Jonas Ramos github stats" src="https://github-readme-stats.vercel.app/api?username=jjonasramos&show_icons=true&hide_border=true" />
 </a>
-
-That's a little bit of me and... let's learn together.
 
  
 ## About me 
