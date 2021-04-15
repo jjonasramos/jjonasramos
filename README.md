@@ -8,7 +8,7 @@ Hey buddy, welcome to my Github profile. Here you'll find a lot of bugs Lol. Jus
 
 Introducing myself, I've started programming when I was 13yo at school. On 2016 I decided to start a degree in Computer Science, that I've done in 2020.
 
-Before to finish the degree, I've started a position as a Data Analyst at IN1, working specifically with the Qlik Products.
+Before to finish the degree, I've started a position as a Data Analyst, working specifically with the Qlik Products.
 
 In parallels, I was learning other technologies and improving my web development skills.
 
