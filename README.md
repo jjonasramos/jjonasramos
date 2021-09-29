@@ -4,7 +4,7 @@
  
 ## I'm Jonas Ramos!
 
-Hey buddy, welcome to my Github profile. Here you'll find a lot of bugs Lol. Just kidding... or not.
+Hey buddy, welcome to my profile.
 
 Introducing myself, I've started programming when I was 13yo at school. On 2016 I decided to start a degree in Computer Science, that I've done in 2020.
 
@@ -16,7 +16,7 @@ So, today my mainly skills are Data Analysis, focused on Qlik (and a little bit 
 
 And... The technologies that I'm currently studying are NodeJS and React Native.
 
-That's a little bit of me and... let's learn together.
+That's a little bit about myself and... let's learn together.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonasramos)](https://github.com/jjonasramos)
 
