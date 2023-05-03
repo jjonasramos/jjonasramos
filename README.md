@@ -6,17 +6,15 @@
 
 Hey buddy, welcome to my profile.
 
-Introducing myself, I've started programming when I was 13yo at school. On 2016 I decided to start a degree in Computer Science, that I've done in 2020.
+Here you will find some projects that I've been developing or I'm developing yet.
 
-Before to finish the degree, I've started a position as a Data Analyst, working specifically with the Qlik Products.
-
-In parallels, I was learning other technologies and improving my web development skills.
-
-So, today my mainly skills are Data Analysis, focused on Qlik (and a little bit of Power BI), front end development using ReactJS.
-
-And... The technologies that I'm currently studying are NodeJS and React Native.
-
-That's a little bit about myself and... let's learn together.
+Technologies that I know and use to develop:
+- React.js, Next.js and React Native using TypeScript
+- Node.js with TypeScript (Express and currently studying NestJS)
+- Databases (MongoDB, PostgreSQL, MySQL, SQLServer)
+- Qlik
+- Stripe
+- Figma (Studying)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonasramos)](https://github.com/jjonasramos)
 
