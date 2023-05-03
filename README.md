@@ -1,8 +1,6 @@
 
  
 # Welcome!
- 
-## I'm Jonas Ramos!
 
 Hey buddy, welcome to my profile.
 
