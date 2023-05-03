@@ -4,9 +4,9 @@
 
 Hey buddy, welcome to my profile.
 
-Here you will find some projects that I've been developing or I'm developing yet.
+Here you will find some projects that I've developed or am developing.
 
-Technologies that I know and use to develop:
+Technologies I know and use to develop:
 - React.js, Next.js and React Native using TypeScript
 - Node.js with TypeScript (Express and currently studying NestJS)
 - Databases (MongoDB, PostgreSQL, MySQL, SQLServer)
