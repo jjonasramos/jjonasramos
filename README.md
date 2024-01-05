@@ -22,6 +22,5 @@ Hey there! 👋 I'm a Full Stack Developer with 6 years of experience crafting w
 
 Let's code together! 💻🚀
  
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jjonasramos/)](https://github.com/jjonasramos/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasramos/)](https://www.linkedin.com/in/jonasramos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjonasramos@gmail.com)](mailto:jjonasramos@gmail.com)
