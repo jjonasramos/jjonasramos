@@ -1,31 +1,27 @@
+Hey there! 👋 I'm a Full Stack Developer with 6 years of experience crafting web and mobile applications.
 
+**Frontend Skills:**
+- React.js, Next.js, Tailwind CSS, Styled Components
+- Redux, Zustand, GraphQL, Framer Motion, other
+- Testing with Vitest and React Testing Library
+
+**Backend Expertise:**
+- Node.js, Express
+- Databases: PostgreSQL, MongoDB, MySQL, Supabase, other
+- Testing with Vitest
+
+**Mobile Expertise:**
+- React Native
+
+**Currently Learning:**
+- Exploring Nest, Spring Boot, Vue.js
+- Diving into integration and end-to-end testing
+
+**Bonus Skills:**
+- Basic understanding of Figma for design tweaks
+
+Let's code together! 💻🚀
  
-# Welcome!
-
-Hey buddy, welcome to my profile.
-
-Here you will find some projects that I've developed or am developing.
-
-Technologies I know and use to develop:
-- React.js, Next.js and React Native using TypeScript
-- Node.js with TypeScript (Express and currently studying NestJS)
-- Databases (MongoDB, PostgreSQL, MySQL, SQLServer)
-- Qlik
-- Stripe
-- Figma (Studying)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonasramos)](https://github.com/jjonasramos)
-
-<a href="https://github.com/jjonasramos">
-    <img align="center" width="50%" alt="Jonas Ramos github stats" src="https://github-readme-stats.vercel.app/api?username=jjonasramos&show_icons=true&hide_border=true" />
-</a>
-
- 
-## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jjonasramos/)](https://github.com/jjonasramos/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasramos/)](https://www.linkedin.com/in/jonasramos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjonasramos@gmail.com)](mailto:jjonasramos@gmail.com)
- 
-- Thanks for visiting. 
- 
-- Enjoy it!!
