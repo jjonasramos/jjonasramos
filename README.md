@@ -23,5 +23,5 @@
 
 Let's code together! 💻🚀
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasramos/)](https://www.linkedin.com/in/jjonasramos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjonasramos/)](https://www.linkedin.com/in/jjonasramos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjonasramos@gmail.com)](mailto:jjonasramos@gmail.com)
