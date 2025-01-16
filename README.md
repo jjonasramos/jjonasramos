@@ -1,21 +1,22 @@
-Hey there! 👋 I'm a Full Stack Developer with 6 years of experience crafting web and mobile applications.
+👋 Hi there! I'm a Full Stack Engineer with 7+ years of experience building scalable web applications and delivering impactful solutions through technology. Passionate about turning complex problems into elegant, efficient systems that drive real-world value.
 
 **Frontend Skills:**
-- React.js, Next.js, Tailwind CSS, Styled Components
+- React.js, Next.js, Tailwind CSS, Styled Components, React Query, Apollo
 - Redux, Zustand, GraphQL, Framer Motion, other
 - Testing with Vitest and React Testing Library
 
 **Backend Expertise:**
-- Node.js, Express
+- Node.js, Express, NestJS
 - Databases: PostgreSQL, MongoDB, MySQL, Supabase, other
+- RabbitMQ, AWS, Docker, Prometheus, Grafana, Loki, Digital Ocean, GitHub Actions, GraphQL
 - Testing with Vitest
 
 **Mobile Expertise:**
 - React Native
 
 **Currently Learning:**
-- Exploring Nest, Spring Boot, Vue.js
-- Diving into integration and end-to-end testing
+- Mobile development: Kotlin and Swift
+- Kubernetes
 
 **Bonus Skills:**
 - Basic understanding of Figma for design tweaks
